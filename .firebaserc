@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "your-firebase-project-id",
+    "dev": "dulhan-beauty-parlour-693db"
+  },
+  "targets": {},
+  "etags": {}
+}
