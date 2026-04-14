@@ -15,8 +15,8 @@ export const config = {
     
     // Contact Information
     contact: {
-      email: 'hello@dulhanbeautyparlour.in',
-      phone: '+91 98911 03958',
+      email: 'singhvandna2020@gmail.com',
+      phone: '+91 8936076541',
       whatsApp: '+918936076541',
       address: 'Du Du Singh, Mantri Ji ke Katra,\nSatramganj Bazar,\nBhadaura, Uttar Pradesh 232333\nIndia',
       // GPS coordinates (latitude, longitude)
